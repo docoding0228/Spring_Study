@@ -10,5 +10,4 @@ public class SpringPrepareApplication {
         SpringApplication.run(SpringPrepareApplication.class, args);
     }
     // 테스트
-
 }
